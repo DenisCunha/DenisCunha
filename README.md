@@ -1,16 +1,16 @@
-### Hi there 👋
+## Meu GIT 👋
 
-<!--
-**DenisCunha/DenisCunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**DenisCunha/** Casado ✨ _38 Anos_ ✨ .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meus Conhecimento e Formações:
+- ⚡ Formado em Redes de Computadores
+- ⚡ Pós Graduado em Pericia Forense Computacional
+- ⚡ Programador Avançado em PHP
+- Desenvolvedor de Sistema Web
+- Especialista em Ecommerce
+
+  Trabalhando com informática desde 1998, inciando como instrutor de informática lecionando Pacote Office, Operador de Computador (Windows e Linux), WebDesigner, Designer Gráfico (CorelDraww).
+  Atualizando conhecimentos em 2006 com cursos de Visual Basic, delphi, Javascript, CSS, HTML, PHP, Photoshop, Flash, Lógica de Programação, Programação Orientada a Objeto entre outros curso.
+  
+
