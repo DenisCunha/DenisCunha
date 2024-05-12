@@ -6,7 +6,7 @@
 Meus Conhecimento e Formações:
 - ⚡ Formado em Redes de Computadores
 - ⚡ Pós Graduado em Pericia Forense Computacional
-- ⚡ Programador Avançado em PHP
+- ⚡ Programador Senior em PHP
 - Desenvolvedor de Sistema Web
 - Especialista em Ecommerce
 
