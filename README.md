@@ -15,4 +15,4 @@ Meus Conhecimento e Formações:
 
   _2021 Iniciando nos cursos do DIO_
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniscunha)](https://github.com/anuraghazra/github-readme-stats)
+[![Denis Cunha](https://github-readme-stats.vercel.app/api?username=deniscunha)](https://github.com/anuraghazra/github-readme-stats)
